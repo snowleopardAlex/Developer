@@ -1,3 +1,1 @@
-# Developer
-First Portfolio, violet layout, animations, 8 additional projects included:  
-restaurant, french tutor, cleaning service, real estate agency, zoo, pets, christmas market, lexma agency. 
+# Gradient first portfolio includes 8 web design projects: lexma, brillo, pets make friends, real estate agency, psychologist web, south park zoo, digusto restaurant, christmas market. 
